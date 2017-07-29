@@ -15,7 +15,7 @@ ___
 | Collaborative Filtering | <Script is still running> |
 | Hybrid | <Script is still running> |
 ### How to Implement !!
-Follow the Report.pdf to implement the whole project.
+Follow the **Report.pdf** to implement the whole project.
 
 **_Project best explained within the Report_**
 ### Sample Snapshots
