@@ -20,4 +20,7 @@ Follow the **Report.pdf** to implement the whole project.
 **_Project best explained within the Report_**
 ### Sample Snapshots
 **1.** 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Team-HSP/Recommendation-System-Hadoop/blob/master/Source%20Code/Web%20UI%20Snapshots/HybridRecommendation.png "Recommendations for User 156")
+
+**2.**
+![alt text](https://github.com/Team-HSP/Recommendation-System-Hadoop/blob/master/Source%20Code/Web%20UI%20Snapshots/RestRecommendations.png "Recommendations for User 156")
