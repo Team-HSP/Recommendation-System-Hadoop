@@ -8,7 +8,7 @@ ___
 ### Dataset Used
 > MovieLens 100k dataset
 ### Project Workflow
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Team-HSP/Recommendation-System-Hadoop/blob/master/Workflow.JPG "Workflow")
 ### Root Mean Square Error Values
 | Models        | Rmse           |
 | :-----------: |:-------------:|
