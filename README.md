@@ -12,8 +12,8 @@ ___
 ### Root Mean Square Error Values
 | Models        | Rmse           |
 | :-----------: |:-------------:|
-| Collaborative Filtering | <Script is still running> |
-| Hybrid | <Script is still running> |
+| Collaborative Filtering | 1.0038 |
+| Hybrid | 1.0013 |
 ### How to Implement !!
 Follow the **Report.pdf** to implement the whole project.
 
