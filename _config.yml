@@ -1,3 +1,0 @@
-theme: jekyll-theme-merlot
-title: Product Recommendation System
-{% include index.html %}
