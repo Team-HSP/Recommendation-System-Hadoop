@@ -10,8 +10,10 @@ This project's aim is to implement various Recommendation Models on Hadoop Frame
 >**MovieLens 100k dataset**
 
 ### Project Workflow
-
+```markdown
 ![WorkFlow](https://github.com/Team-HSP/Recommendation-System-Hadoop/blob/master/Workflow.JPG "Workflow")
+
+```
 
 ### Root Mean Square Error Values
 
